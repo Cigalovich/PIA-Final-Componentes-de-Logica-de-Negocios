@@ -1,0 +1,21 @@
+﻿caso_id,operacion_id,accion_sugerida,estado_inicial,resultado_alumno,instrucciones
+AUT-S001,AUT-O001,completar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S002,AUT-O002,cancelar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S003,AUT-O003,repetir_aprobacion,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S004,AUT-O004,saltar_estado,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S005,AUT-O005,aprobar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S006,AUT-O006,completar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S007,AUT-O007,cancelar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S008,AUT-O008,repetir_aprobacion,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S009,AUT-O009,saltar_estado,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S010,AUT-O010,aprobar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S011,AUT-O011,completar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S012,AUT-O012,cancelar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S013,AUT-O013,repetir_aprobacion,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S014,AUT-O014,saltar_estado,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S015,AUT-O015,aprobar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S016,AUT-O016,completar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S017,AUT-O017,cancelar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S018,AUT-O018,repetir_aprobacion,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S019,AUT-O019,saltar_estado,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion
+AUT-S020,AUT-O020,aprobar,RECIBIDA,PENDIENTE,Ejecutar la operacion y registrar evento o excepcion

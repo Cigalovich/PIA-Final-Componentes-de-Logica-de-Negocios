@@ -1,0 +1,21 @@
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+    environment:
+      DATABASE_URL: sqlite:////app/data/autofixpro.db
+    volumes:
+      - autofix_data:/app/data
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+  tests:
+    build: .
+    command: ["python", "-m", "pytest", "-q", "--cov=app", "--cov-report=term-missing", "--cov-fail-under=80"]
+    environment:
+      DATABASE_URL: sqlite:////tmp/test.db
+    profiles: ["test"]
+volumes:
+  autofix_data:

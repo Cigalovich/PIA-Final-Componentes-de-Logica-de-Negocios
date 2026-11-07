@@ -1,0 +1,121 @@
+﻿caso_id,operacion_id,tipo_prueba,regla_a_verificar,resultado_alumno,instrucciones
+AUT-T001,AUT-O001,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B001,AUT-O001,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T002,AUT-O002,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B002,AUT-O002,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T003,AUT-O003,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B003,AUT-O003,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T004,AUT-O004,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B004,AUT-O004,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T005,AUT-O005,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B005,AUT-O005,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T006,AUT-O006,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B006,AUT-O006,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T007,AUT-O007,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B007,AUT-O007,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T008,AUT-O008,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B008,AUT-O008,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T009,AUT-O009,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B009,AUT-O009,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T010,AUT-O010,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B010,AUT-O010,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T011,AUT-O011,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B011,AUT-O011,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T012,AUT-O012,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B012,AUT-O012,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T013,AUT-O013,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B013,AUT-O013,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T014,AUT-O014,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B014,AUT-O014,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T015,AUT-O015,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B015,AUT-O015,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T016,AUT-O016,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B016,AUT-O016,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T017,AUT-O017,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B017,AUT-O017,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T018,AUT-O018,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B018,AUT-O018,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T019,AUT-O019,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B019,AUT-O019,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T020,AUT-O020,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B020,AUT-O020,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T021,AUT-O021,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B021,AUT-O021,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T022,AUT-O022,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B022,AUT-O022,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T023,AUT-O023,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B023,AUT-O023,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T024,AUT-O024,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B024,AUT-O024,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T025,AUT-O025,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B025,AUT-O025,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T026,AUT-O026,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B026,AUT-O026,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T027,AUT-O027,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B027,AUT-O027,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T028,AUT-O028,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B028,AUT-O028,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T029,AUT-O029,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B029,AUT-O029,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T030,AUT-O030,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B030,AUT-O030,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T031,AUT-O031,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B031,AUT-O031,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T032,AUT-O032,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B032,AUT-O032,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T033,AUT-O033,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B033,AUT-O033,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T034,AUT-O034,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B034,AUT-O034,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T035,AUT-O035,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B035,AUT-O035,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T036,AUT-O036,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B036,AUT-O036,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T037,AUT-O037,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B037,AUT-O037,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T038,AUT-O038,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B038,AUT-O038,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T039,AUT-O039,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B039,AUT-O039,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T040,AUT-O040,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B040,AUT-O040,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T041,AUT-O041,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B041,AUT-O041,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T042,AUT-O042,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B042,AUT-O042,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T043,AUT-O043,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B043,AUT-O043,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T044,AUT-O044,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B044,AUT-O044,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T045,AUT-O045,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B045,AUT-O045,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T046,AUT-O046,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B046,AUT-O046,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T047,AUT-O047,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B047,AUT-O047,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T048,AUT-O048,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B048,AUT-O048,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T049,AUT-O049,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B049,AUT-O049,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T050,AUT-O050,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B050,AUT-O050,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T051,AUT-O051,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B051,AUT-O051,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T052,AUT-O052,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B052,AUT-O052,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T053,AUT-O053,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B053,AUT-O053,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T054,AUT-O054,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B054,AUT-O054,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T055,AUT-O055,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B055,AUT-O055,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T056,AUT-O056,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B056,AUT-O056,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T057,AUT-O057,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B057,AUT-O057,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T058,AUT-O058,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B058,AUT-O058,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T059,AUT-O059,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B059,AUT-O059,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT
+AUT-T060,AUT-O060,validar_operacion,validar cliente activo AND detalle no vacio AND autorizacion,PENDIENTE,Verificar precondiciones en dominio
+AUT-B060,AUT-O060,evaluar_beneficio,VIP AND total >=1500 AND NOT promocion,PENDIENTE,Composicion Specification AND/NOT

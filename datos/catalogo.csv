@@ -1,0 +1,21 @@
+﻿recurso_id,descripcion,precio_mxn,capacidad_o_stock,habilitado
+AUT-P001,Diagnóstico 01,359.00,13,1
+AUT-P002,Frenos 02,430.00,16,1
+AUT-P003,Afinación 03,501.00,19,1
+AUT-P004,Cambio aceite 04,572.00,22,1
+AUT-P005,Diagnóstico 05,643.00,25,1
+AUT-P006,Frenos 06,714.00,28,1
+AUT-P007,Afinación 07,785.00,31,1
+AUT-P008,Cambio aceite 08,856.00,34,1
+AUT-P009,Diagnóstico 09,927.00,37,1
+AUT-P010,Frenos 10,998.00,40,1
+AUT-P011,Afinación 11,1069.00,43,0
+AUT-P012,Cambio aceite 12,1140.00,46,1
+AUT-P013,Diagnóstico 13,1211.00,49,1
+AUT-P014,Frenos 14,1282.00,52,1
+AUT-P015,Afinación 15,1353.00,10,1
+AUT-P016,Cambio aceite 16,1424.00,13,1
+AUT-P017,Diagnóstico 17,1495.00,16,1
+AUT-P018,Frenos 18,1566.00,19,1
+AUT-P019,Afinación 19,1637.00,22,1
+AUT-P020,Cambio aceite 20,1708.00,25,1
